@@ -1,6 +1,6 @@
-Minetest 0.4.17.1 Server with MODS and MOBS.
+Minetest 5.0.1 Server with MODS and MOBS.
 
-Mobs: Police, Prisoner, Zombie, Creeper, Archer
+Mobs: Police, Prisoner, Zombie, Creeper, Archer, Freddie, Granny, SWAT
 
 Mods: Vehicles, Ranged Weapons
 
